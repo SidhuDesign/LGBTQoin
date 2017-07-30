@@ -1,0 +1,9 @@
+Building LGBTQoin
+
+See doc/readme-qt.rst for instructions on building LGBTQoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LGBTQoin.
+
+See doc/build-*.txt for instructions on building LGBTQoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of LGBTQoin.
